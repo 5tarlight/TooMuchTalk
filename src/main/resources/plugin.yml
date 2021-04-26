@@ -1,0 +1,7 @@
+name: TooMuchTalk
+version: 1.0.0
+main: com.yeahx4.TooMuchTalk
+api-version: 1.16
+prefix: YEAHx4
+authors: [ YEAHx4 ]
+description: Too much talk minecraft plugin
